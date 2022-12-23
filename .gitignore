@@ -1,0 +1,6 @@
+.terraform
+*.docx
+*.pdf
+*.tmp
+*.tfstate*
+tfplan
